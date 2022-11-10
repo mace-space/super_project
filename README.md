@@ -1,4 +1,4 @@
-# Git for collaboration example repository
+#Git for collaboration example repository
 
 This is an example Git repository that is used as part of the
 [Git for Collaboration](https://chryswoods.com/git_collaboration)
@@ -11,3 +11,4 @@ over time as we run the workshop.
 The project involves planning the refurbishment and installation
 of a new kitchen.
 
+MM: initial edit
